@@ -1,7 +1,7 @@
 import time
 import random  # Importing the random module to generate random events
 
-# Function to print messages with a pause for dramatic effect
+# Function to print messages with pause for dramatic effect
 def print_pause(message, pause_time=1):
     print(message)
     time.sleep(pause_time)
